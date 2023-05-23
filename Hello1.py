@@ -1,0 +1,1 @@
+print("Hii buddie I am Rushikesh Jaware\nstudied as a AI Enginnering in Cdac noida")
